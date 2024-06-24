@@ -3,6 +3,7 @@ layout: post
 title:  "Focus of Worship"
 date:   2023-11-20 017:00:00 -0600
 categories: archive
+permalink: archive/focus-of-worship
 ---
 
 What is at the focal point of your sanctuary?

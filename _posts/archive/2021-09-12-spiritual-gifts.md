@@ -3,6 +3,7 @@ layout: post
 title:  "Spiritual Gifts"
 date:   2021-09-12 15:56:00 -0500
 categories: archive
+permalink: archive/spiritual-gifts
 ---
 
 The Bible mentions "spiritual gifts" several times throughout the New Testament, although I like Romans 12:3--8:

@@ -3,6 +3,7 @@ layout: post
 title:  "Christians, politics won't save you!"
 date:   2022-07-31 09:43:00 -0500
 categories: archive
+permalink: archive/politics-wont-save-you
 ---
 
 As an American citizen, you have the right and obligation to participate in democracy/politics.

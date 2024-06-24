@@ -3,6 +3,7 @@ layout: post
 title:  "Meme Review #1"
 date:   2022-01-09 10:16:00 -0600
 categories: archive
+permalink: archive/meme-review-1
 ---
 
 ![Meme](https://pbs.twimg.com/media/E_oKg7OX0AARwV2.jpg)

@@ -3,6 +3,7 @@ layout: post
 title:  "Questioning Faith"
 date:   2021-11-14 00:05:00 -0600
 categories: archive
+permalink: archive/questioning-faith
 ---
 
 YOU DARE QUESTION THE WORD OF GOD??? Well, sorta.

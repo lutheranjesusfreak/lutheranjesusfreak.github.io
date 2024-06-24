@@ -3,6 +3,7 @@ layout: post
 title:  "DO YAH FEAR DEATH?"
 date:   2021-10-31 11:59:00 -0500
 categories: archive
+permalink: archive/do-yah-fear-death
 ---
 
 I've had this sermon in the back of my mind ever since seeing this scene on Disney+.

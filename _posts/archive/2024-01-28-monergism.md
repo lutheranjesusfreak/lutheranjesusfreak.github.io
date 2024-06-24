@@ -3,6 +3,7 @@ layout: post
 title:  "Monergism"
 date:   2024-01-28 08:11:00 -0600
 categories: archive
+permalink: archive/monergism
 ---
 
 Why am I a Christian?

@@ -3,6 +3,7 @@ layout: post
 title:  "The numbers, Mason..."
 date:   2021-08-15 10:40:00 -0500
 categories: archive
+permalink: archive/the-numbers-mason
 ---
 
 The Old Testament contains many (~300?) prophecies about the coming of the Messiah (Jesus) hundreds of years before his birth.

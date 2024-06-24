@@ -3,6 +3,7 @@ layout: post
 title:  "Not Your Average Bible Story: Sodom and Gomorrah"
 date:   2021-08-08 09:44:00 -0500
 categories: archive
+permalink: archive/sodom-and-gomorrah
 ---
 
 This post is slightly more mature in nature. The story itself can be found in Genesis chapters 18--19.

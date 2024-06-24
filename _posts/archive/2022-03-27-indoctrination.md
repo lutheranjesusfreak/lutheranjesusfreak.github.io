@@ -3,6 +3,7 @@ layout: post
 title:  "Indoctrination"
 date:   2022-03-27 07:28:00 -0500
 categories: archive
+permalink: archive/indoctrination
 ---
 
 > Indoctrination: the process of teaching a person or group to accept a set of beliefs uncritically.
