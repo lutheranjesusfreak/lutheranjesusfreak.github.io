@@ -10,7 +10,7 @@ permalink: archive/meme-review-1
 
 The internet is a wild place, so this may seem a little darker than normal.
 But considering that this meme parallels a previous post all too closely, I don't feel like I have a choice in this matter. Plus, as I've already mentioned
-[here](/archive/2021/11/14/questioning-faith.html),
+[here](/archive/questioning-faith.html),
 pondering hard and potentially heretical questions isn't a bad thing as long as you are prepared to find the answers.
 So let's begin.
 
