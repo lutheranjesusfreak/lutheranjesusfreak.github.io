@@ -24,8 +24,8 @@ No, all of this was orchestrated by God before EVERYTHING. (Ephesians 1:4)
 God ordained these things to happen, but not just for my good, but for ALL of us.
 
 > He is the atoning sacrifice for our sins, and not only for ours but also for the sins of the whole world.
-
----1 John 2:2
+>
+> ---1 John 2:2
 
 The promise is extended to all, so that God might work in the lives of all who are baptized in his name. (Romans 6:3--4)
 We are called to join in fellowship in God not by our own work but by his.
@@ -43,5 +43,5 @@ I love writing these posts and I love the academic side of my faith, but I would
 I would rather speak 5 true words to glorify God than 10,000 words to glorify myself.
 
 > You are worthy, our Lord and God, to receive glory and honor and power, for you created all things, and by your will they were created and have their being.
-
----Revelation 4:11
+>
+> ---Revelation 4:11

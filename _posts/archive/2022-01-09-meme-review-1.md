@@ -27,9 +27,10 @@ As for "testing faith," this isn't unheard of.
 The most prominent biblical example being Job, whose faith was tested when he lost most of his family, worldly possessions, and reputation.
 God eventually repaid Job for his faithfulness tenfold, but not without initial anguish.
 God's reply to this anguish was as follows (among other words, as Old Testament passages tend to be long winded):
-> Would you discredit my justice? Would you condemn me to justify yourself?
 
----Job 40:8
+> Would you discredit my justice? Would you condemn me to justify yourself?
+>
+>---Job 40:8
 
 The problem with trying to call out so-called 'injustices' is that we as humans are not in the position to judge unrighteousness, as we in fact are the ones without righteousness.
 Thanks to Adam and our sinful nature, that's just not the hand we've been dealt.

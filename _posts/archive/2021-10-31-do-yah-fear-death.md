@@ -58,5 +58,5 @@ Jesus delivers believers from the judgement of sin so we no longer have to fear 
 > "Where, O death, is your victory? Where, O death, is your sting?"
 >
 > The sting of death is sin, and the power of sin is the law. But thanks be to God! He gives us the victory through our Lord Jesus Christ.
-
----1 Corinthians 15:55-57
+>
+> ---1 Corinthians 15:55-57

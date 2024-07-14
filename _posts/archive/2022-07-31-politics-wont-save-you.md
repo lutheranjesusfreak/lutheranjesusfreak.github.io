@@ -25,5 +25,5 @@ All politics will ultimately become a tower of Babel constructed in a futile att
 > "Listen to all that the people are saying to you; it is not you they have rejected, but they have rejected me as their king.
 > As they have done from the day I brought them up out of Egypt until this day, forsaking me and serving other gods, so they are doing to you.
 > Now listen to them; but warn them solemnly and let them know what the king who will reign over them will claim as his rights."
-
----1 Samuel 8:6--9
+>
+> ---1 Samuel 8:6--9
