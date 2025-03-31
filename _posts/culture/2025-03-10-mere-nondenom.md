@@ -80,5 +80,6 @@ Without labels, doctrinal positions become blurry and true agreement cannot be r
 Therefore, in the interest in preserving what unity we still have left in the Church, I will continue to identify as Lutheran.
 I also encourage you to be open to the idea of using labels responsibly.
 
-See also this video by the Scholastic Lutherans:
-<iframe width="420" height="315" src="http://www.youtube.com/embed/0xKVpjTS1Q0" frameborder="0" allowfullscreen></iframe>
+See also
+[this video](https://youtu.be/0xKVpjTS1Q0?feature=shared){:target="_blank"}
+by the Scholastic Lutherans.
