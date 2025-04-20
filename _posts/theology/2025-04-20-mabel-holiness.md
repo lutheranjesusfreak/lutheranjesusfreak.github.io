@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mabel's Holiness"
-date:   2025-04-20 8:00:00 -0500
+date:   2025-04-20 10:00:00 -0500
 categories: theology
 permalink: theology/mabel-holiness
 ---
